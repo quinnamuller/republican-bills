@@ -1,0 +1,31 @@
+"","year","sponsor_party","pass_status","count"
+"1",2025,"Democrat","Not passed",1748
+"2",2022,"Democrat","Not passed",1568
+"3",2026,"Democrat","Not passed",1224
+"4",2024,"Democrat","Not passed",1128
+"5",2023,"Democrat","Not passed",1069
+"6",2024,"Democrat","Passed",814
+"7",2026,"Democrat","Passed",687
+"8",2022,"Republican","Not passed",625
+"9",2023,"Democrat","Passed",605
+"10",2025,"Republican","Not passed",558
+"11",2026,"Republican","Not passed",465
+"12",2024,"Republican","Not passed",413
+"13",2023,"Republican","Not passed",343
+"14",2025,"Other","Not passed",163
+"15",2022,"Other","Not passed",158
+"16",2022,"Democrat","Passed",150
+"17",2024,"Republican","Passed",131
+"18",2026,"Republican","Passed",130
+"19",2023,"Republican","Passed",123
+"20",2025,"Democrat","Passed",108
+"21",2024,"Other","Passed",97
+"22",2024,"Other","Not passed",95
+"23",2026,"Other","Not passed",83
+"24",2026,"Other","Passed",82
+"25",2023,"Other","Not passed",74
+"26",2023,"Other","Passed",70
+"27",2025,"Republican","Passed",34
+"28",2022,"Other","Passed",9
+"29",2022,"Republican","Passed",9
+"30",2025,"Other","Passed",4
